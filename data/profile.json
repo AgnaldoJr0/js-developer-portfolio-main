@@ -1,0 +1,70 @@
+{
+  "name": "Agnaldo j L Júnior",
+  "photo": "https://avatars.githubusercontent.com/u/113722348?v=4",
+  "job": "Ainda não empregado na área.",
+  "location": "Sorocaba - SP",
+  "phone": "(15) 99604-5390",
+  "email": "aglealjrju@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/AgnaldoJr0/js-developer-pokedex-main",
+      "github": true
+    },
+    {
+      "name": "Atividade do curso na Anhanguera para a criação de um app de Clima",
+      "url": "https://github.com/AgnaldoJr0/clima-app",
+      "github": "true"
+    },
+    {
+      "name": "Atividade do curso na Anhanguera para a criação de um app de Hamburgueria",
+      "url": "https://github.com/AgnaldoJr0/HamburgueriaZ2/tree/main",
+      "github": "true"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Ainda não possui nenhuma experiencia profissional na área.",
+      "period": "---",
+      "description": ""
+    }
+  ]
+}
