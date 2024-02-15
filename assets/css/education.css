@@ -1,0 +1,20 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.education li {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-size: 1rem;
+}
+
+.title {
+    font-weight: 700;
+}

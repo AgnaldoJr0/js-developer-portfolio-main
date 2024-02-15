@@ -43,11 +43,17 @@
     "Português BR",
     "Inglês (iniciante)"
   ],
+  "education": [
+    {
+      "curso":"Anhanguera - Cursando Tecnólogo em Sistemas para Internet",
+      "period":"4º Semestre"
+    }
+  ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
       "url": "https://github.com/AgnaldoJr0/js-developer-pokedex-main",
-      "github": true
+      "github": "true"
     },
     {
       "name": "Atividade do curso na Anhanguera para a criação de um app de Clima",
@@ -64,7 +70,7 @@
     {
       "name": "Ainda não possui nenhuma experiência profissional na área.",
       "period": "---",
-      "description": ""
+      "description": "---"
     }
   ]
 }
