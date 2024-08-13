@@ -5,6 +5,8 @@
   "location": "Sorocaba - SP",
   "phone": "(15) 99604-5390",
   "email": "aglealjrju@gmail.com",
+  "LinkedIn":"https://www.linkedin.com/in/agnaldo-jos%C3%A9-leal-j%C3%BAnior-107124263/",
+  "GitHub":"https://github.com/AgnaldoJr0",
   "skills": {
     "hardSkills": [
       {
@@ -63,6 +65,11 @@
     {
       "name": "Atividade do curso na Anhanguera para a criação de um app de Hamburgueria",
       "url": "https://github.com/AgnaldoJr0/HamburgueriaZ2/tree/main",
+      "github": "true"
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de Banco Digital",
+      "url": "https://github.com/AgnaldoJr0/banco-digital-oo",
       "github": "true"
     }
   ],
