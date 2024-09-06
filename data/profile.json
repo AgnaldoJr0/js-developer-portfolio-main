@@ -43,7 +43,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (iniciante)"
+    "Inglês (Básico)"
   ],
   "education": [
     {
@@ -53,8 +53,8 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/AgnaldoJr0/js-developer-pokedex-main",
+      "name": "Curso Ministrado na DIO para a criação de uma aplicação Spring Web",
+      "url": "https://github.com/AgnaldoJr0/SpringWeb",
       "github": "true"
     },
     {
